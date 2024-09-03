@@ -277,5 +277,11 @@ SHOW YOUR OUTPUT HERE
 
       
 ![Screenshot 2024-09-03 101959](https://github.com/user-attachments/assets/6b9cd934-0e2a-4f8e-a28e-e92a9acbdd0c)
+                                                     
+   ##   Blocksize=1023
+  ![WhatsApp Image 2024-09-03 at 11 06 04_f02c5d0b](https://github.com/user-attachments/assets/4b082a34-9c7f-4d43-8fa5-6a512ae132c3)
+ ##   Blocksize=1024
+![WhatsApp Image 2024-09-03 at 11 06 04_6d499cba](https://github.com/user-attachments/assets/4f4e57e8-ab6e-4b56-abb3-de9819cff8cd)
+
 ## RESULT:
 Thus, Implementation of sum arrays on host and device is done in nvcc cuda using random number.
